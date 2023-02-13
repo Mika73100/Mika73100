@@ -7,7 +7,6 @@
 #### Langages / Frameworks
 
 <img src="./img/typescript.png" alt ="typescript" title="Typescript"/>&nbsp;&nbsp; 
-<img src="./img/angular.png" alt ="angular" title="Angular"/>&nbsp;&nbsp;
 <img src="./img/docker.png" alt ="Docker" title="Docker"/>&nbsp;&nbsp;
 
 
