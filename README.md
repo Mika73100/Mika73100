@@ -6,8 +6,8 @@
 ### :point_right: Compétences
 #### Langages / Frameworks
 
-<img src="./assets/images/typescript.png" alt ="typescript" title="Typescript"/>&nbsp;&nbsp; 
-<img src="./assets/images/angular.png" alt ="angular" title="Angular"/>&nbsp;&nbsp;
+<img src="./images/typescript.png" alt ="typescript" title="Typescript"/>&nbsp;&nbsp; 
+<img src="./images/angular.png" alt ="angular" title="Angular"/>&nbsp;&nbsp;
 
 
 
