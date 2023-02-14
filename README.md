@@ -2,11 +2,17 @@
 [![email](https://img.shields.io/badge/email--lightgrey?style=social&logo=gmail)](mailto:Michael-73@live.fr)
 
 
-<img src="./img/trav.jpg" alt ="trav" title="trav"/>&nbsp;&nbsp;
+<div align="center">
+    ### Hi there 👋
+</div><br><br>
+
+<div align="center">
+    <img src="img/giphy.gif">
+</div>
 
 
 
-### Hi there 👋
+
 
 ### :point_right: Compétences
 #### Langages / Frameworks
