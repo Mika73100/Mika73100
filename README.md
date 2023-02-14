@@ -3,14 +3,15 @@
 
 
 <div align="center">
-
-<h1>welcome to my galaxy 👋</h1>
-    
+<h1>Welcome to my galaxy 🚀</h1>
 </div><br><br>
+
 
 <div align="center">
     <img id="i1" src="img/giphy.gif">
 </div>
+
+
 
 
 
@@ -23,8 +24,4 @@
 <img src="./img/docker.png" alt ="Docker" title="Docker"/>&nbsp;&nbsp;
 
 
-
-
-
-<script src="script.js"></script>
 
