@@ -6,8 +6,6 @@
     <img src="img/giphy.gif">
 </div>
 
-<img src="./img/trav.jpg" alt ="trav" title="trav"/>&nbsp;&nbsp;
-
 
 
 ### Hi there 👋
