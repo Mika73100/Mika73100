@@ -3,7 +3,11 @@
 
 
 <div align="center">
-    <img src="img/giphy.gif">&nbsp;&nbsp;### Hi there 👋
+    ### Hi there 👋
+</div>
+
+<div align="center">
+    <img src="img/giphy.gif">
 </div>
 
 
