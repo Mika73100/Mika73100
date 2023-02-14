@@ -17,5 +17,8 @@
 
 
 <div align="center">
-    <img src="img/giphy.gif">
+    <img id="i1" src="img/giphy.gif">
 </div>
+
+
+<script src="script.js"></script>
