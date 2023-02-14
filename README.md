@@ -2,6 +2,10 @@
 [![email](https://img.shields.io/badge/email--lightgrey?style=social&logo=gmail)](mailto:Michael-73@live.fr)
 
 
+<div align="center">
+    <img src="img/giphy.gif">
+</div>
+
 <img src="./img/trav.jpg" alt ="trav" title="trav"/>&nbsp;&nbsp;
 
 
@@ -16,6 +20,3 @@
 
 
 
-<div align="center">
-    <img src="img/giphy.gif">
-</div>
