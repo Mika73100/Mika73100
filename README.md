@@ -3,12 +3,12 @@
 
 
 <div align="center">
-    <img src="img/giphy.gif">
+    <img src="img/giphy.gif">&nbsp;&nbsp;### Hi there 👋
 </div>
 
 
 
-### Hi there 👋
+
 
 ### :point_right: Compétences
 #### Langages / Frameworks
