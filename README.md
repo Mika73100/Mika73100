@@ -4,7 +4,7 @@
 
 <div align="center">
     ### Hi there 👋
-</div>
+</div><br><br>
 
 <div align="center">
     <img src="img/giphy.gif">
