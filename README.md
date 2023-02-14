@@ -4,10 +4,12 @@
 
 <div align="center">
     ### Hi there 👋
+
+    <h1>welcome to my galaxy</h1>
 </div><br><br>
 
 <div align="center">
-    <img src="img/giphy.gif">
+    <img id="i1" src="img/giphy.gif">
 </div>
 
 
@@ -22,9 +24,7 @@
 
 
 
-<div align="center">
-    <img id="i1" src="img/giphy.gif">
-</div>
 
 
-<script src="script.js"></script>
+
+
