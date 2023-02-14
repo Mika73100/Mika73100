@@ -3,9 +3,9 @@
 
 
 <div align="center">
-    ### Hi there 👋
 
-    <h1>welcome to my galaxy</h1>
+<h1>welcome to my galaxy 👋</h1>
+    
 </div><br><br>
 
 <div align="center">
@@ -26,5 +26,5 @@
 
 
 
-
+<script src="script.js"></script>
 
