@@ -17,5 +17,5 @@
 
 
 <div align="center">
-    <img src="img/computer-code.gif">
+    <img src="img/giphy.gif">
 </div>
