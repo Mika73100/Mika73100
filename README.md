@@ -16,3 +16,6 @@
 
 
 
+<div align="center">
+    <img src="img/computer-code.gif">
+</div>
