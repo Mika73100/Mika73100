@@ -7,7 +7,7 @@
 
 
 <div align="center">
-<h1 + red>🚀 Welcome to my space 🚀</h1>
+<h1+red>🚀 Welcome to my space 🚀</h1>
 </div><br><br>
 
 
