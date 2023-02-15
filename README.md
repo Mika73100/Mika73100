@@ -27,7 +27,7 @@
     ![IONIC]({https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white})
     [![Behance](https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white)]
     [![Ionic](https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white)]
-    <img src="{[BadgeURLHere](https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white)}" />
+    <img src="{(https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white)}" />
 </div>
 
 ### :point_right: Compétences
