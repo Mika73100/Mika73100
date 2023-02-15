@@ -3,7 +3,7 @@
 
 
 <div align="center">
-<h1>Welcome to my galaxy 🚀</h1>
+<h1>🚀 Welcome to my space 🚀</h1>
 </div><br><br>
 
 
