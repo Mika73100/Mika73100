@@ -9,6 +9,9 @@
 </div><br><br>
 
 
+<div 
+
+
 <div align="center">
     <img id="i1" src="img/giphy.gif">
 </div>
@@ -16,7 +19,11 @@
 
 
 
+<div align="center">
+    <h2>📲 Mobile Frameworks ✨</h2>
 
+
+</div>
 
 
 
