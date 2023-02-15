@@ -1,6 +1,8 @@
-[![linkedin](https://img.shields.io/badge/linkedin--lightgrey?style=social&logo=linkedin)](https://www.linkedin.com/in/michael-barreca/)
-[![email](https://img.shields.io/badge/email--lightgrey?style=social&logo=gmail)](mailto:Michael-73@live.fr)
-[![Behance](https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white)](https://www.linkedin.com/in/michael-barreca)
+
+
+[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/michael-barreca/)
+[![email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Michael-73@live.fr)
+[![Behance](https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/michaelbarreca)
 
 
 
@@ -26,7 +28,10 @@
 </div>
 
 
-
+<div align="center">
+    <h2>📲 Mobile Frameworks 🔝</h2>
+    ![image][https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white]
+</div>
 
 ### :point_right: Compétences
 #### Langages / Frameworks
