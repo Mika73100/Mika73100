@@ -21,16 +21,10 @@
 
 
 
-<div align="center">
-    <h2>📲 Mobile Frameworks ✨</h2>
-
-
-</div>
-
 
 <div align="center">
     <h2>📲 Mobile Frameworks 🔝</h2>
-    ![image][https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white]
+    ![Behance][https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white]
 </div>
 
 ### :point_right: Compétences
