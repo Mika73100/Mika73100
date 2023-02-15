@@ -23,8 +23,7 @@
 
 <div align="center">
     <h2>📲 Mobile Frameworks 🔝</h2>
-    [![ionic]([https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white](https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white))]
-    https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
+    [![ionic]([https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white])]
     
 </div>
 
