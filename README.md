@@ -23,6 +23,8 @@
 
 <div align="center">
     <h2>📲 Mobile Frameworks 🔝</h2>
+    
+    ![Ionic]({https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white})
     [![Behance](https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white)]
     [![Ionic](https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white)]
     
