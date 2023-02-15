@@ -24,8 +24,10 @@
 
 <div align="center">
     <h2>📲 Mobile Frameworks 🔝</h2>
-    <img src="{https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white}" /> 
+
+    [![Wordpress](https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)]
 </div>
+
 
 ### :point_right: Compétences
 #### Langages / Frameworks
