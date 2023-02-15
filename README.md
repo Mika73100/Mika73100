@@ -23,7 +23,7 @@
 
 <div align="center">
     <h2>📲 Mobile Frameworks 🔝</h2>
-    ![image]({https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white})
+    ![image][({https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white})](https://img.shields.io/badge/Codecov-F01F7A?style=for-the-badge&logo=Codecov&logoColor=white)
 </div>
 
 ### :point_right: Compétences
