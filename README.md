@@ -25,7 +25,7 @@
 <div align="center">
     <h2>📲 Mobile Frameworks 🔝</h2>
 
-    [![Wordpress](https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)]
+    [[![Wordpress](https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)]](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white)
 </div>
 
 
