@@ -4,7 +4,7 @@
 
 <br><br>
 <div align="center">
-        <a href="https://indd.adobe.com/view/8f0b9f6d-40d1-41de-907b-56aa818c2112"><img src="img/3455025.png"></a><h2>Michaël curriculum vitae</h2><br>
+        <a href="https://indd.adobe.com/view/8f0b9f6d-40d1-41de-907b-56aa818c2112"><img src="img/3455025.png"></a><p>Michaël curriculum vitae</p><br>
         <h1>🚀 Welcome to my space 🚀</h1>
         </div><br><br>
 
@@ -64,10 +64,10 @@
 
 
 <div align="center"><br><br>
-        <h1>🧰 The tools 🔝</h1><br><br>
+        <h1>🪛 The tools 🔝</h1><br><br>
 
 
-<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+
 <img src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white" />
 <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" />
 <img src="https://img.shields.io/badge/Miro-F7C922?style=for-the-badge&logo=Miro&logoColor=050036" />
