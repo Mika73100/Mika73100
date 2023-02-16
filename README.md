@@ -26,7 +26,7 @@
 
 
 <div align="center"><br><br>
-        <h1>💻 The languages 🔝</h1><br><br>
+        <h1>💻 Programming 🔝</h1><br><br>
 
 <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
 <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
