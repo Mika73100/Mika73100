@@ -5,7 +5,7 @@
 <br><br>
 <div align="center">
         <a href="https://indd.adobe.com/view/8f0b9f6d-40d1-41de-907b-56aa818c2112"><img src="img/3455025.png"></a><p>Michaël curriculum vitae</p><br>
-        <h1>🚀 Welcome to my space 🚀</h1>
+        <h2>🚀 Welcome to my space 🚀</h2>
         </div><br><br>
 
 <div>
@@ -17,16 +17,16 @@
 
 
 <div align="center"><br><br>
-        <h1>📲 Mobile Frameworks 🔝</h1><br><br>
+        <h2>📲 Mobile Frameworks 🔝</h2><br><br>
 
 <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white" />
+<img src="https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white" /><img src="https://img.shields.io/badge/Electron-2B2E3A?style=for-the-badge&logo=electron&logoColor=9FEAF9" />
 
 </div>
 
 
 <div align="center"><br><br>
-        <h1>💻 Programming 🔝</h1><br><br>
+        <h2>💻 Programming 🔝</h2><br><br>
 
 <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
 <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
@@ -40,7 +40,6 @@
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
 <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
 <img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" />
-<img src="https://img.shields.io/badge/Electron-2B2E3A?style=for-the-badge&logo=electron&logoColor=9FEAF9" />
 <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
 <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
 <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
@@ -50,7 +49,7 @@
 
 
 <div align="center"><br><br>
-        <h1>✍🏼 Design 🔝</h1><br><br>
+        <h2>✍🏼 Design 🔝</h2><br><br>
         
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
 <img src="https://img.shields.io/badge/Adobe%20after%20affects-CF96FD?style=for-the-badge&logo=Adobe%20after%20effects&logoColor=393665" />
@@ -64,7 +63,7 @@
 
 
 <div align="center"><br><br>
-        <h1>🪛 The tools 🔝</h1><br><br>
+        <h2>🪛 The tools 🔝</h2><br><br>
 
 
 
