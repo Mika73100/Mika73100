@@ -19,7 +19,7 @@
 
 
 <div align="center">
-        <img src="img/872shots_so.png">
+        <img src="img/879shots_so.png">
 </div>
 
 
