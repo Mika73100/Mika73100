@@ -16,6 +16,15 @@
 </div>
 
 
+
+
+<div align="center">
+        <img src="img/872shots_so.png">
+</div>
+
+
+
+
 <div align="center"><br><br>
         <h2>📲 Mobile Frameworks 🔝</h2><br><br>
 
