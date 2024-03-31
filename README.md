@@ -5,7 +5,7 @@
 <br><br>
 
 <div align="center">
-        <p>👽️ Welcome to my space ! 👽️</p>
+        <h2>👽️ Welcome to my space ! 👽️</h2>
 </div><br><br>
 
 <div align="center">
