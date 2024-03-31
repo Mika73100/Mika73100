@@ -4,7 +4,9 @@
 
 <br><br>
 
-
+<div align="center">
+        <p> Welcome to my space ! </p>
+</div><br><br>
 
 <div align="center">
         <img src="img/giphy.gif">
