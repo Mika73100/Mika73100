@@ -3,12 +3,7 @@
 [![Behance](https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/michaelbarreca)
 
 <br><br>
-<div align="center">
-        <a href="https://acrobat.adobe.com/id/urn:aaid:sc:EU:4609fd8b-a291-4cdf-854c-257bba00beb0"><img src="img/3455025.png"></a><p>Michaël curriculum vitae</p><br>
-        <h2>🚀 Welcome to my space 🚀</h2>
-        </div><br><br>
 
-<div>
 
 
 <div align="center">
