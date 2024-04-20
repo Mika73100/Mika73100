@@ -24,8 +24,8 @@
 
 <div align="center"><br><br>
         <h2>📲 Mobile Frameworks 🔝</h2><br><br>
-        
-<img src="[https://img.shields.io/badge/Kotlin-B125EA&style=for-the-badge&logo=kotlin&logoColor=white](https://camo.githubusercontent.com/177b36905bdd347c8af85d1a489a8949a4a0bedfb10e0d7b658e14f678b80e6e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4b6f746c696e2d4231323545413f7374796c653d666f722d7468652d6261646765266c6f676f3d6b6f746c696e266c6f676f436f6c6f723d7768697465)" />
+
+<img src="https://img.shields.io/badge/Kotlin-B125EA&style=for-the-badge&logo=kotlin&logoColor=white"/>
 <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 <img src="https://img.shields.io/badge/Flutter-3880FF?style=for-the-badge&logo=flutter&logoColor=3880FF" />
         
